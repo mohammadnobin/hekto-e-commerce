@@ -2,3 +2,8 @@
 
 Source: `app/about/page.js` (19 lines)
 
+## Imports
+
+- `react`
+- `../components/Aboout`
+
