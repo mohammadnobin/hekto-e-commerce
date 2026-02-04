@@ -1,0 +1,22 @@
+# page.js
+
+Source: `app/product/page.js` (20 lines)
+
+## Imports
+
+- `react`
+- `../components/allReuseableCart/PageHeaderReusable`
+- `../components/ProductGrid`
+- `@/lib/getAlldata`
+- `../components/Brand`
+
+## Exports
+
+- `page`
+
+## Renders
+
+- `<PageHeaderReusable>`
+- `<ProductGrid>`
+- `<Brand>`
+
