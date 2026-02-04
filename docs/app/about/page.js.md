@@ -7,3 +7,8 @@ Source: `app/about/page.js` (19 lines)
 - `react`
 - `../components/Aboout`
 
+## Exports
+
+- `metadata`
+- `page`
+
