@@ -12,3 +12,7 @@ Source: `app/components/Footer.jsx` (90 lines)
 - `next/image`
 - `next/font/google`
 
+## Exports
+
+- `Footer`
+
