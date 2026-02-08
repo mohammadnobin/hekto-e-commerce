@@ -4,3 +4,14 @@ Source: `app/StoreProvidor.jsx` (20 lines)
 
 > Client component (`'use client'`).
 
+## Imports
+
+- `@/lib/store/features/cart/cartsilce`
+- `@/lib/store/store`
+- `react`
+- `react-redux`
+
+## Exports
+
+- `StoreProvidor`
+
