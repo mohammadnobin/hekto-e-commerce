@@ -12,3 +12,7 @@ Source: `app/about/page.js` (19 lines)
 - `metadata`
 - `page`
 
+## Renders
+
+- `<About>`
+
