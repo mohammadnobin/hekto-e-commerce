@@ -15,3 +15,7 @@ Source: `app/StoreProvidor.jsx` (20 lines)
 
 - `StoreProvidor`
 
+## Hooks used
+
+- `useRef`
+
