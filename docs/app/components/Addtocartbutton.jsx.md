@@ -19,3 +19,7 @@ Source: `app/components/Addtocartbutton.jsx` (22 lines)
 
 - `useDispatch`
 
+## Renders
+
+- `<FaRegHeart>`
+
