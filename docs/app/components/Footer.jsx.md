@@ -10,3 +10,5 @@ Source: `app/components/Footer.jsx` (90 lines)
 - `./Container`
 - `../../public/Hekto.png`
 - `next/image`
+- `next/font/google`
+
