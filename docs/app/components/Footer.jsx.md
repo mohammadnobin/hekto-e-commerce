@@ -16,3 +16,11 @@ Source: `app/components/Footer.jsx` (90 lines)
 
 - `Footer`
 
+## Renders
+
+- `<Container>`
+- `<Image>`
+- `<TiSocialFacebook>`
+- `<CiInstagram>`
+- `<CiTwitter>`
+
