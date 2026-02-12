@@ -14,3 +14,9 @@ Source: `app/components/TopCategories.jsx` (28 lines)
 
 - `TopCategories`
 
+## Renders
+
+- `<Container>`
+- `<TopCategoriReuseabel>`
+- `<Image>`
+
