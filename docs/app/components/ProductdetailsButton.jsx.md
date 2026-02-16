@@ -12,3 +12,7 @@ Source: `app/components/ProductdetailsButton.jsx` (18 lines)
 
 - `ProductdetailsButton`
 
+## Renders
+
+- `<Addtocartbutton>`
+
