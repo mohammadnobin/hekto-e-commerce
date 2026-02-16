@@ -11,3 +11,15 @@ Source: `app/components/Relatedcard.jsx` (120 lines)
 - `react-icons/ci`
 - `react-icons/fa6`
 
+## Exports
+
+- `Relatedcard`
+
+## Renders
+
+- `<FaStar>`
+- `<CiStar>`
+- `<Container>`
+- `<Link>`
+- `<Image>`
+
