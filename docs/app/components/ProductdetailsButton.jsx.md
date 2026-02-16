@@ -8,3 +8,7 @@ Source: `app/components/ProductdetailsButton.jsx` (18 lines)
 - `react-redux`
 - `./Addtocartbutton`
 
+## Exports
+
+- `ProductdetailsButton`
+
