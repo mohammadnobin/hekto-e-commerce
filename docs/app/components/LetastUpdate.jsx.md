@@ -11,3 +11,7 @@ Source: `app/components/LetastUpdate.jsx` (21 lines)
 
 - `LetastUpdate`
 
+## Renders
+
+- `<Container>`
+

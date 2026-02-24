@@ -9,3 +9,15 @@ Source: `app/components/Pagination.jsx` (118 lines)
 - `react`
 - `./allReuseableCart/ProductReuseableTwo`
 
+## Exports
+
+- `Pagination`
+
+## Hooks used
+
+- `useState`
+
+## Renders
+
+- `<ProductReuseableTwo>`
+

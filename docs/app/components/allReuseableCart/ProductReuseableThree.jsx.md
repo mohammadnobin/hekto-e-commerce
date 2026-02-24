@@ -10,3 +10,14 @@ Source: `app/components/allReuseableCart/ProductReuseableThree.jsx` (47 lines)
 - `react-icons/fi`
 - `react-icons/ci`
 
+## Exports
+
+- `ProductReuseableThree`
+
+## Renders
+
+- `<Image>`
+- `<FiShoppingCart>`
+- `<CiHeart>`
+- `<FiZoomIn>`
+
