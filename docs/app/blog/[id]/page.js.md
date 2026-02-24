@@ -16,3 +16,16 @@ Source: `app/blog/[id]/page.js` (76 lines)
 - `@/app/components/allReuseableCart/PageHeaderReusable`
 - `@/app/components/Blogmianrignt`
 
+## Exports
+
+- `Singleblog`
+
+## Renders
+
+- `<PageHeaderReusable>`
+- `<Container>`
+- `<Image>`
+- `<FaPenNib>`
+- `<MdOutlineDateRange>`
+- `<Blogmianrignt>`
+
