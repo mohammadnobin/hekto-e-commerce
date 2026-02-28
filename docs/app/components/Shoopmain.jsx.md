@@ -16,3 +16,8 @@ Source: `app/components/Shoopmain.jsx` (122 lines)
 
 - `Shoopmain`
 
+## Hooks used
+
+- `useState`
+- `useEffect`
+
