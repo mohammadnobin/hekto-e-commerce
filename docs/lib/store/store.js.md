@@ -2,3 +2,12 @@
 
 Source: `lib/store/store.js` (10 lines)
 
+## Imports
+
+- `@reduxjs/toolkit`
+- `./features/cart/cartsilce`
+
+## Exports
+
+- `makeStore`
+
