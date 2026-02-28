@@ -21,3 +21,10 @@ Source: `app/components/Shoopmain.jsx` (122 lines)
 - `useState`
 - `useEffect`
 
+## Renders
+
+- `<Container>`
+- `<ShopHeader>`
+- `<ShopRight>`
+- `<ShopPaginate>`
+
