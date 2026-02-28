@@ -12,3 +12,7 @@ Source: `app/components/allReuseableCart/TopCategoriReuseabel.jsx` (22 lines)
 
 - `TopCategoriReuseabel`
 
+## Renders
+
+- `<Image>`
+
