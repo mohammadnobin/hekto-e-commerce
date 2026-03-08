@@ -13,3 +13,8 @@ Source: `app/components/Brand.jsx` (16 lines)
 
 - `Brand`
 
+## Renders
+
+- `<Container>`
+- `<Image>`
+
