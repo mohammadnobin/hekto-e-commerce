@@ -19,3 +19,9 @@ Source: `app/components/Menu.jsx` (31 lines)
 
 - `useState`
 
+## Renders
+
+- `<RxCross2>`
+- `<FaBarsStaggered>`
+- `<Link>`
+
