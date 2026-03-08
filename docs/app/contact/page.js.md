@@ -8,3 +8,7 @@ Source: `app/contact/page.js` (15 lines)
 - `../components/allReuseableCart/PageHeaderReusable`
 - `../components/ContactHead`
 
+## Exports
+
+- `page`
+
