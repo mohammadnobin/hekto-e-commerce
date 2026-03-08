@@ -6,3 +6,7 @@ Source: `app/loading.jsx` (15 lines)
 
 - `react`
 
+## Exports
+
+- `loading`
+
