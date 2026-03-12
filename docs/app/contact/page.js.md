@@ -12,3 +12,8 @@ Source: `app/contact/page.js` (15 lines)
 
 - `page`
 
+## Renders
+
+- `<PageHeaderReusable>`
+- `<ContactHead>`
+
