@@ -12,3 +12,7 @@ Source: `app/components/CheckooutRight.jsx` (59 lines)
 - `next/image`
 - `react-redux`
 
+## Exports
+
+- `CheckoutRight`
+
