@@ -16,3 +16,7 @@ Source: `app/components/CheckooutRight.jsx` (59 lines)
 
 - `CheckoutRight`
 
+## Hooks used
+
+- `useSelector`
+
