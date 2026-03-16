@@ -10,3 +10,7 @@ Source: `app/components/ContactHead.jsx` (114 lines)
 - `next/font/google`
 - `./Contactmeddle`
 
+## Exports
+
+- `ContactHead`
+
