@@ -10,3 +10,14 @@ Source: `app/components/Aboout.jsx` (18 lines)
 - `./AboutFeatures`
 - `./AboutClient`
 
+## Exports
+
+- `About`
+
+## Renders
+
+- `<PageHeaderReusable>`
+- `<AboutHead>`
+- `<AboutFeatures>`
+- `<AboutClient>`
+
