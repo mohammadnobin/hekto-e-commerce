@@ -14,3 +14,9 @@ Source: `app/components/ContactHead.jsx` (114 lines)
 
 - `ContactHead`
 
+## Renders
+
+- `<Container>`
+- `<FaCircle>`
+- `<Contactmeddle>`
+
