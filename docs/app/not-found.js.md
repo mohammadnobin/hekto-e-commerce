@@ -11,3 +11,13 @@ Source: `app/not-found.js` (28 lines)
 - `#/pageimg.png`
 - `./components/Brand`
 
+## Exports
+
+- `notfound`
+
+## Renders
+
+- `<Container>`
+- `<Image>`
+- `<Link>`
+
