@@ -20,3 +20,7 @@ Source: `app/components/CheckooutRight.jsx` (59 lines)
 
 - `useSelector`
 
+## Renders
+
+- `<Image>`
+
