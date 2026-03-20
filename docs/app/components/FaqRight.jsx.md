@@ -6,3 +6,7 @@ Source: `app/components/FaqRight.jsx` (42 lines)
 
 - `react`
 
+## Exports
+
+- `FaqRight`
+
