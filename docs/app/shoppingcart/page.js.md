@@ -7,3 +7,7 @@ Source: `app/shoppingcart/page.js` (12 lines)
 - `react`
 - `../components/CartMain`
 
+## Exports
+
+- `page`
+
