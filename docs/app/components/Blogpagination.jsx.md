@@ -6,3 +6,11 @@ Source: `app/components/Blogpagination.jsx` (35 lines)
 
 - `react`
 
+## Exports
+
+- `Blogpagination`
+
+## Hooks used
+
+- `useState`
+
