@@ -15,3 +15,20 @@ Source: `app/components/allReuseableCart/ProductReuseableTwo.jsx` (72 lines)
 - `react-redux`
 - `@/lib/store/features/cart/cartsilce`
 
+## Exports
+
+- `ProductReuseableTwo`
+
+## Hooks used
+
+- `useDispatch`
+
+## Renders
+
+- `<Link>`
+- `<Image>`
+- `<FiShoppingCart>`
+- `<CiHeart>`
+- `<FiZoomIn>`
+- `<FaCircle>`
+
