@@ -11,3 +11,7 @@ Source: `app/shoppingcart/page.js` (12 lines)
 
 - `page`
 
+## Renders
+
+- `<CartMain>`
+
