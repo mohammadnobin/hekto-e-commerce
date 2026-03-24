@@ -11,3 +11,7 @@ Source: `app/components/CartLeft.jsx` (71 lines)
 - `@/lib/store/features/cart/cartsilce`
 - `#/cartcross.png`
 
+## Exports
+
+- `CartLeft`
+
