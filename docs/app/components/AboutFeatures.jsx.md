@@ -10,3 +10,14 @@ Source: `app/components/AboutFeatures.jsx` (27 lines)
 - `#/delivery.png`
 - `#/cashback.png`
 - `#/premium.png`
+- `#/support.png`
+
+## Exports
+
+- `AboutFeatures`
+
+## Renders
+
+- `<Container>`
+- `<WhatCartReusabel>`
+
