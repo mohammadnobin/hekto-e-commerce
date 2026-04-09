@@ -14,3 +14,10 @@ Source: `app/components/FaqInfot.jsx` (21 lines)
 
 - `FaqInfot`
 
+## Renders
+
+- `<Container>`
+- `<FaqRight>`
+- `<FaqLeft>`
+- `<Brand>`
+
