@@ -12,3 +12,8 @@ Source: `app/faq/page.js` (15 lines)
 
 - `page`
 
+## Renders
+
+- `<PageHeaderReusable>`
+- `<FaqInfot>`
+
