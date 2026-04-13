@@ -9,3 +9,12 @@ Source: `app/components/AboutClient.jsx` (32 lines)
 - `next/image`
 - `react-icons/fa`
 
+## Exports
+
+- `AboutClient`
+
+## Renders
+
+- `<Image>`
+- `<FaMinus>`
+
