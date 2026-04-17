@@ -12,3 +12,7 @@ Source: `app/components/allReuseableCart/WhatCartReusabel.jsx` (24 lines)
 
 - `WhatCartReusabel`
 
+## Renders
+
+- `<Image>`
+
