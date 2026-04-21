@@ -8,3 +8,7 @@ Source: `app/components/ShopHeader.jsx` (87 lines)
 - `react-icons/fa6`
 - `react-icons/io5`
 
+## Exports
+
+- `ShopHeader`
+
