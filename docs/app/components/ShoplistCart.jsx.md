@@ -13,3 +13,7 @@ Source: `app/components/ShoplistCart.jsx` (94 lines)
 - `react-icons/fi`
 - `react-redux`
 
+## Exports
+
+- `ShoplistCart`
+
