@@ -12,3 +12,8 @@ Source: `app/components/ShopHeader.jsx` (87 lines)
 
 - `ShopHeader`
 
+## Renders
+
+- `<IoGrid>`
+- `<FaList>`
+
