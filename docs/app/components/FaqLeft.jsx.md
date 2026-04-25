@@ -6,3 +6,7 @@ Source: `app/components/FaqLeft.jsx` (30 lines)
 
 - `react`
 
+## Exports
+
+- `FaqLeft`
+
