@@ -11,3 +11,7 @@ Source: `app/components/ChectkooutMain.jsx` (35 lines)
 - `./allReuseableCart/PageHeaderReusable`
 - `next/font/google`
 
+## Exports
+
+- `ChectkoutMain`
+
