@@ -14,3 +14,10 @@ Source: `app/components/allReuseableCart/BlogCartReuseable.jsx` (41 lines)
 
 - `BlogCartReuseable`
 
+## Renders
+
+- `<Image>`
+- `<FaPen>`
+- `<FaCalendar>`
+- `<Link>`
+
