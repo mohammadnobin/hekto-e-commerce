@@ -15,3 +15,10 @@ Source: `app/components/ChectkooutMain.jsx` (35 lines)
 
 - `ChectkoutMain`
 
+## Renders
+
+- `<PageHeaderReusable>`
+- `<Container>`
+- `<CheckoutLeft>`
+- `<CheckoutRight>`
+
