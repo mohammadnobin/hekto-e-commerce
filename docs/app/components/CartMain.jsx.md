@@ -12,3 +12,5 @@ Source: `app/components/CartMain.jsx` (39 lines)
 - `./CartLeft`
 - `./CartRight`
 - `react-redux`
+- `./EmtyCart`
+
