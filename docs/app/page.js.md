@@ -17,3 +17,7 @@ Source: `app/page.js` (35 lines)
 - `./components/LetastUpdate`
 - `./components/Blog`
 
+## Exports
+
+- `Home`
+
