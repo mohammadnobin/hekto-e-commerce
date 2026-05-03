@@ -18,3 +18,15 @@ Source: `app/components/CartMain.jsx` (39 lines)
 
 - `CartMain`
 
+## Hooks used
+
+- `useSelector`
+
+## Renders
+
+- `<PageHeaderReusable>`
+- `<Container>`
+- `<CartLeft>`
+- `<CartRight>`
+- `<EmtyCart>`
+
