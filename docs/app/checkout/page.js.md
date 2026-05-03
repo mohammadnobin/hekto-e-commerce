@@ -11,3 +11,7 @@ Source: `app/checkout/page.js` (13 lines)
 
 - `page`
 
+## Renders
+
+- `<ChectkoutMain>`
+
