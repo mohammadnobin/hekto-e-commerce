@@ -14,3 +14,7 @@ Source: `app/components/CartMain.jsx` (39 lines)
 - `react-redux`
 - `./EmtyCart`
 
+## Exports
+
+- `CartMain`
+
