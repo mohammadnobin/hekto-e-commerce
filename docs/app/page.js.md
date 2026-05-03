@@ -21,3 +21,17 @@ Source: `app/page.js` (35 lines)
 
 - `Home`
 
+## Renders
+
+- `<Banner>`
+- `<FeatureProduct>`
+- `<LeatestProduct>`
+- `<Shopex>`
+- `<UniqueFeature>`
+- `<TrendingProdcut>`
+- `<Discount>`
+- `<TopCategories>`
+- `<LetastUpdate>`
+- `<Brand>`
+- `<Blog>`
+
