@@ -7,3 +7,7 @@ Source: `app/checkout/page.js` (13 lines)
 - `react`
 - `../components/ChectkooutMain`
 
+## Exports
+
+- `page`
+
