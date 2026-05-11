@@ -29,3 +29,9 @@ Source: `app/product/[id]/page.js` (116 lines)
 - `<ProductDeatilsImage>`
 - `<Image>`
 - `<Addtocartbutton>`
+- `<TiSocialFacebook>`
+- `<FaInstagram>`
+- `<TiSocialTwitter>`
+- `<Description>`
+- `<Relatedcard>`
+
