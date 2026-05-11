@@ -22,3 +22,9 @@ Source: `app/globals.css` (128 lines)
 - `.hello .slider-container`
 - `.hello .vertical-slider`
 - `.hello .slick-slide`
+- `.hello .slick-slider`
+- `.hello .horizontal-slider`
+- `.swiper`
+- `.swiper-slide`
+- `.swiper-slide img`
+
