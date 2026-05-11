@@ -10,3 +10,7 @@ Source: `app/components/ShopRight.jsx` (280 lines)
 
 - `ShopRight`
 
+## Hooks used
+
+- `useState`
+
