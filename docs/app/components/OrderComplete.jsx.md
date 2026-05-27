@@ -18,3 +18,9 @@ Source: `app/components/OrderComplete.jsx` (56 lines)
 
 - `OrderComplete`
 
+## Renders
+
+- `<PageHeaderReusable>`
+- `<Image>`
+- `<Brand>`
+
