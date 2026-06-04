@@ -13,3 +13,8 @@ Source: `app/components/UniqueFeature.jsx` (16 lines)
 
 - `UniqueFeature`
 
+## Renders
+
+- `<Container>`
+- `<Image>`
+
