@@ -10,3 +10,14 @@ Source: `app/components/Header.jsx` (43 lines)
 - `./Addcart`
 - `./Container`
 
+## Exports
+
+- `Header`
+
+## Renders
+
+- `<Container>`
+- `<CiMail>`
+- `<FiPhoneCall>`
+- `<Addcart>`
+

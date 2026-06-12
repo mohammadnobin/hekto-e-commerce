@@ -16,3 +16,19 @@ Source: `app/components/Blogmianrignt.jsx` (227 lines)
 - `#/blogr9.png`
 - `#/blogr10.png`
 - `#/blogr11.png`
+- `next/image`
+- `react-icons/fa6`
+- `react-icons/ci`
+
+## Exports
+
+- `Blogmianrignt`
+
+## Renders
+
+- `<CiSearch>`
+- `<Image>`
+- `<FaFacebookF>`
+- `<FaInstagram>`
+- `<FaTwitter>`
+
