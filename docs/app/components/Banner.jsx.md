@@ -11,3 +11,7 @@ Source: `app/components/Banner.jsx` (70 lines)
 - `react-slick`
 - `#/banner.png`
 
+## Exports
+
+- `Banner`
+
