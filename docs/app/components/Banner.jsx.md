@@ -15,3 +15,8 @@ Source: `app/components/Banner.jsx` (70 lines)
 
 - `Banner`
 
+## Renders
+
+- `<Slider>`
+- `<Image>`
+
