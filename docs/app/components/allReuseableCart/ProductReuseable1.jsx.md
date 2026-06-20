@@ -20,3 +20,7 @@ Source: `app/components/allReuseableCart/ProductReuseable1.jsx` (65 lines)
 
 - `ProductReuseable1`
 
+## Hooks used
+
+- `useDispatch`
+
