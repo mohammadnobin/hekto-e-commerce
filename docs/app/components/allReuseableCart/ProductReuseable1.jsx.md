@@ -24,3 +24,12 @@ Source: `app/components/allReuseableCart/ProductReuseable1.jsx` (65 lines)
 
 - `useDispatch`
 
+## Renders
+
+- `<FiShoppingCart>`
+- `<CiHeart>`
+- `<FiZoomIn>`
+- `<Image>`
+- `<Link>`
+- `<FaMinus>`
+
