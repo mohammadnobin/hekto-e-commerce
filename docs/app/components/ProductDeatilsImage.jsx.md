@@ -4,3 +4,12 @@ Source: `app/components/ProductDeatilsImage.jsx` (23 lines)
 
 > Client component (`'use client'`).
 
+## Imports
+
+- `react`
+- `./Container`
+- `#/details1.png`
+- `#/details2.png`
+- `next/image`
+- `./ProductDetailsSlider`
+
