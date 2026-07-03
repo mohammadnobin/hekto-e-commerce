@@ -21,3 +21,7 @@ Source: `app/components/Pagination.jsx` (118 lines)
 
 - `<ProductReuseableTwo>`
 
+## Outline
+
+- `Pagination` (const) - line 5
+
