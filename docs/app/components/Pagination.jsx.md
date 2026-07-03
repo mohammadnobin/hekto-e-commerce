@@ -25,3 +25,7 @@ Source: `app/components/Pagination.jsx` (118 lines)
 
 - `Pagination` (const) - line 5
 
+## Imported by
+
+- `app/components/ProductGrid.jsx`
+
