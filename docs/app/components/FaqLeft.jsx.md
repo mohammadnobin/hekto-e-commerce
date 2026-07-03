@@ -10,3 +10,7 @@ Source: `app/components/FaqLeft.jsx` (30 lines)
 
 - `FaqLeft`
 
+## Outline
+
+- `FaqLeft` (const) - line 3
+
