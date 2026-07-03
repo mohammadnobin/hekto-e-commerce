@@ -6,3 +6,7 @@ Source: `lib/getAlldata.js` (8 lines)
 
 - `getAlldata`
 
+## Outline
+
+- `getAlldata` (function) - line 1
+
