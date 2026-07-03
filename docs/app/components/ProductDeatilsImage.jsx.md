@@ -13,3 +13,12 @@ Source: `app/components/ProductDeatilsImage.jsx` (23 lines)
 - `next/image`
 - `./ProductDetailsSlider`
 
+## Exports
+
+- `ProductDeatilsImage`
+
+## Renders
+
+- `<Container>`
+- `<ProductDetailsSlider>`
+
