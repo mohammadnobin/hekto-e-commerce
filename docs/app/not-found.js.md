@@ -21,3 +21,11 @@ Source: `app/not-found.js` (28 lines)
 - `<Image>`
 - `<Link>`
 
+## Outline
+
+- `notfound` (const) - line 8
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

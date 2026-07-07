@@ -16,3 +16,8 @@ Source: `app/components/LoginForm.jsx` (34 lines)
 
 - `<Container>`
 
+## Outline
+
+- `lato` (const) - line 5
+- `LoginForm` (const) - line 10
+

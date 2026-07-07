@@ -18,3 +18,11 @@ Source: `app/components/FeatureCarousel.jsx` (113 lines)
 - `<Slider>`
 - `<ProductReuseable1>`
 
+## Outline
+
+- `FeatureCarousel` (const) - line 5
+
+## Imported by
+
+- `app/components/FeatureProduct.jsx`
+

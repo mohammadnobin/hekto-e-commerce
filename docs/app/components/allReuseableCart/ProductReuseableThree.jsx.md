@@ -25,3 +25,7 @@ Source: `app/components/allReuseableCart/ProductReuseableThree.jsx` (47 lines)
 
 - `ProductReuseableThree` (const) - line 7
 
+## Imported by
+
+- `app/components/LeatestProduct.jsx`
+
