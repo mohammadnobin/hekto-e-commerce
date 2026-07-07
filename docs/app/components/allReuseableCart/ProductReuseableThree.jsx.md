@@ -21,3 +21,7 @@ Source: `app/components/allReuseableCart/ProductReuseableThree.jsx` (47 lines)
 - `<CiHeart>`
 - `<FiZoomIn>`
 
+## Outline
+
+- `ProductReuseableThree` (const) - line 7
+
