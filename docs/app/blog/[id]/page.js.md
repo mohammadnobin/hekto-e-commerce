@@ -29,3 +29,11 @@ Source: `app/blog/[id]/page.js` (76 lines)
 - `<MdOutlineDateRange>`
 - `<Blogmianrignt>`
 
+## Outline
+
+- `Singleblog` (const) - line 14
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
