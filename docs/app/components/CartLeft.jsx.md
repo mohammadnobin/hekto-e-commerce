@@ -29,3 +29,7 @@ Source: `app/components/CartLeft.jsx` (71 lines)
 
 - `CartLeft` (const) - line 9
 
+## Imported by
+
+- `app/components/CartMain.jsx`
+

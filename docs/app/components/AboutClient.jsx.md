@@ -18,3 +18,11 @@ Source: `app/components/AboutClient.jsx` (32 lines)
 - `<Image>`
 - `<FaMinus>`
 
+## Outline
+
+- `AboutClient` (const) - line 6
+
+## Imported by
+
+- `app/components/Aboout.jsx`
+
