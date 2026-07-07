@@ -25,3 +25,7 @@ Source: `app/components/CartLeft.jsx` (71 lines)
 - `<FaMinus>`
 - `<FaPlus>`
 
+## Outline
+
+- `CartLeft` (const) - line 9
+
