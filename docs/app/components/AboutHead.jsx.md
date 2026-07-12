@@ -19,3 +19,8 @@ Source: `app/components/AboutHead.jsx` (32 lines)
 - `<Container>`
 - `<Image>`
 
+## Outline
+
+- `lato` (const) - line 7
+- `AboutHead` (const) - line 12
+
