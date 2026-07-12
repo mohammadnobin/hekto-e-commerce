@@ -24,3 +24,7 @@ Source: `app/product/page.js` (20 lines)
 
 - `page` (const) - line 8
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

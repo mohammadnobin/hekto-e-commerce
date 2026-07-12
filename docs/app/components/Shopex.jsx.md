@@ -21,3 +21,11 @@ Source: `app/components/Shopex.jsx` (27 lines)
 - `<Container>`
 - `<WhatCartReusabel>`
 
+## Outline
+
+- `Shopex` (const) - line 9
+
+## Imported by
+
+- `app/page.js`
+
