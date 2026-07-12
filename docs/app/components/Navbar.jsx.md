@@ -27,3 +27,7 @@ Source: `app/components/Navbar.jsx` (52 lines)
 
 - `Navbar` (const) - line 9
 
+## Imported by
+
+- `app/layout.js`
+
