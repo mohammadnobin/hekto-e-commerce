@@ -20,3 +20,8 @@ Source: `app/components/ContactHead.jsx` (114 lines)
 - `<FaCircle>`
 - `<Contactmeddle>`
 
+## Outline
+
+- `lato` (const) - line 7
+- `ContactHead` (const) - line 12
+
