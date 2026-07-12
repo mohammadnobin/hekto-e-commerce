@@ -16,3 +16,7 @@ Source: `app/blog/page.js` (17 lines)
 
 - `<Bloogmain>`
 
+## Outline
+
+- `page` (const) - line 6
+
