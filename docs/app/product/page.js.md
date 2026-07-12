@@ -20,3 +20,7 @@ Source: `app/product/page.js` (20 lines)
 - `<ProductGrid>`
 - `<Brand>`
 
+## Outline
+
+- `page` (const) - line 8
+
