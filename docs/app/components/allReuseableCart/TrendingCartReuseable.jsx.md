@@ -17,3 +17,8 @@ Source: `app/components/allReuseableCart/TrendingCartReuseable.jsx` (25 lines)
 
 - `<Image>`
 
+## Outline
+
+- `lato` (const) - line 6
+- `TrendingCartReuseable` (const) - line 11
+
