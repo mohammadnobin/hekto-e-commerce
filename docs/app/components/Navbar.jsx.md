@@ -23,3 +23,7 @@ Source: `app/components/Navbar.jsx` (52 lines)
 - `<SearchBar>`
 - `<Link>`
 
+## Outline
+
+- `Navbar` (const) - line 9
+
