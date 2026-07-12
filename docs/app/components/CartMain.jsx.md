@@ -30,3 +30,11 @@ Source: `app/components/CartMain.jsx` (39 lines)
 - `<CartRight>`
 - `<EmtyCart>`
 
+## Outline
+
+- `CartMain` (const) - line 10
+
+## Imported by
+
+- `app/shoppingcart/page.js`
+
