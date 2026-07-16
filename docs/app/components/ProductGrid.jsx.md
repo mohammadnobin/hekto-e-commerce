@@ -21,3 +21,7 @@ Source: `app/components/ProductGrid.jsx` (85 lines)
 - `<IoGrid>`
 - `<Pagination>`
 
+## Outline
+
+- `ProductGrid` (const) - line 7
+

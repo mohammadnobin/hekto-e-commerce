@@ -16,3 +16,12 @@ Source: `app/about/page.js` (19 lines)
 
 - `<About>`
 
+## Outline
+
+- `metadata` (const) - line 5
+- `page` (const) - line 10
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

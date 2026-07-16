@@ -6,3 +6,7 @@ Source: `lib/allPostID.js` (4 lines)
 
 - `allPostID`
 
+## Outline
+
+- `allPostID` (function) - line 1
+

@@ -16,3 +16,11 @@ Source: `app/components/allReuseableCart/TopCategoriReuseabel.jsx` (22 lines)
 
 - `<Image>`
 
+## Outline
+
+- `TopCategoriReuseabel` (const) - line 5
+
+## Imported by
+
+- `app/components/TopCategories.jsx`
+

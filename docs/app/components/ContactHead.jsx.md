@@ -25,3 +25,7 @@ Source: `app/components/ContactHead.jsx` (114 lines)
 - `lato` (const) - line 7
 - `ContactHead` (const) - line 12
 
+## Imported by
+
+- `app/contact/page.js`
+
