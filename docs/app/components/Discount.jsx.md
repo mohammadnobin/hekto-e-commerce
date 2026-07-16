@@ -18,3 +18,7 @@ Source: `app/components/Discount.jsx` (21 lines)
 - `<Container>`
 - `<Image>`
 
+## Outline
+
+- `Discount` (const) - line 6
+

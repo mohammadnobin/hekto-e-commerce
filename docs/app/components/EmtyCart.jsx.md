@@ -18,3 +18,7 @@ Source: `app/components/EmtyCart.jsx` (27 lines)
 - `<Image>`
 - `<Link>`
 
+## Outline
+
+- `EmtyCart` (const) - line 6
+

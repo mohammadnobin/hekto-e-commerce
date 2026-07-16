@@ -24,3 +24,12 @@ Source: `app/components/CheckooutRight.jsx` (59 lines)
 
 - `<Image>`
 
+## Outline
+
+- `lato` (const) - line 7
+- `CheckoutRight` (const) - line 11
+
+## Imported by
+
+- `app/components/ChectkooutMain.jsx`
+

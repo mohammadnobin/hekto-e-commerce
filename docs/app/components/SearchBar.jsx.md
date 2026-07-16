@@ -27,3 +27,11 @@ Source: `app/components/SearchBar.jsx` (103 lines)
 - `<IoIosSearch>`
 - `<Image>`
 
+## Outline
+
+- `SearchBar` (const) - line 6
+
+## Imported by
+
+- `app/components/Navbar.jsx`
+
