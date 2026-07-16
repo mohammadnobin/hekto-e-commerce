@@ -25,3 +25,7 @@ Source: `app/components/ProductGrid.jsx` (85 lines)
 
 - `ProductGrid` (const) - line 7
 
+## Imported by
+
+- `app/product/page.js`
+
