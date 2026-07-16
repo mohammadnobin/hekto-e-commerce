@@ -29,3 +29,11 @@ Source: `app/components/Addcart.jsx` (47 lines)
 - `<FaRegHeart>`
 - `<BsCart2>`
 
+## Outline
+
+- `Addcart` (const) - line 8
+
+## Imported by
+
+- `app/components/Header.jsx`
+

@@ -20,3 +20,7 @@ Source: `app/components/TopCategories.jsx` (28 lines)
 - `<TopCategoriReuseabel>`
 - `<Image>`
 
+## Outline
+
+- `TopCategories` (const) - line 7
+

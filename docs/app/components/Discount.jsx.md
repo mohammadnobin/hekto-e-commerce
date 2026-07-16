@@ -22,3 +22,7 @@ Source: `app/components/Discount.jsx` (21 lines)
 
 - `Discount` (const) - line 6
 
+## Imported by
+
+- `app/page.js`
+

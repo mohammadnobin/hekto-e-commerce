@@ -22,3 +22,7 @@ Source: `app/components/EmtyCart.jsx` (27 lines)
 
 - `EmtyCart` (const) - line 6
 
+## Imported by
+
+- `app/components/CartMain.jsx`
+
