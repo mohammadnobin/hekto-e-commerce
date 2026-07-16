@@ -17,3 +17,11 @@ Source: `app/components/ShopHeader.jsx` (87 lines)
 - `<IoGrid>`
 - `<FaList>`
 
+## Outline
+
+- `ShopHeader` (const) - line 5
+
+## Imported by
+
+- `app/components/Shoopmain.jsx`
+

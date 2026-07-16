@@ -24,3 +24,7 @@ Source: `app/components/AboutHead.jsx` (32 lines)
 - `lato` (const) - line 7
 - `AboutHead` (const) - line 12
 
+## Imported by
+
+- `app/components/Aboout.jsx`
+
