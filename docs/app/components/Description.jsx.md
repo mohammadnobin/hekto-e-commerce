@@ -20,3 +20,7 @@ Source: `app/components/Description.jsx` (141 lines)
 
 - `<Container>`
 
+## Outline
+
+- `Description` (const) - line 5
+
