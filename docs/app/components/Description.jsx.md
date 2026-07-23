@@ -24,3 +24,7 @@ Source: `app/components/Description.jsx` (141 lines)
 
 - `Description` (const) - line 5
 
+## Imported by
+
+- `app/product/[id]/page.js`
+

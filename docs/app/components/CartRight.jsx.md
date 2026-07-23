@@ -16,3 +16,8 @@ Source: `app/components/CartRight.jsx` (54 lines)
 
 - `<Link>`
 
+## Outline
+
+- `lato` (const) - line 4
+- `CartRight` (const) - line 8
+
