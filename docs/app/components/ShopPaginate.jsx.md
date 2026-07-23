@@ -17,3 +17,11 @@ Source: `app/components/ShopPaginate.jsx` (129 lines)
 - `<ProductReuseableTwo>`
 - `<ShoplistCart>`
 
+## Outline
+
+- `ShopPaginate` (const) - line 5
+
+## Imported by
+
+- `app/components/Shoopmain.jsx`
+
