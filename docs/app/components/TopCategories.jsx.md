@@ -24,3 +24,7 @@ Source: `app/components/TopCategories.jsx` (28 lines)
 
 - `TopCategories` (const) - line 7
 
+## Imported by
+
+- `app/page.js`
+

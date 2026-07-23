@@ -15,3 +15,7 @@ Source: `app/login/page.js` (13 lines)
 
 - `<Loging>`
 
+## Outline
+
+- `page` (const) - line 5
+

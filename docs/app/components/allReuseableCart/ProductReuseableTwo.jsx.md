@@ -32,3 +32,7 @@ Source: `app/components/allReuseableCart/ProductReuseableTwo.jsx` (72 lines)
 - `<FiZoomIn>`
 - `<FaCircle>`
 
+## Outline
+
+- `ProductReuseableTwo` (const) - line 11
+
