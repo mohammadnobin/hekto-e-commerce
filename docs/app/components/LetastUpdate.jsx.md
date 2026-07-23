@@ -15,3 +15,7 @@ Source: `app/components/LetastUpdate.jsx` (21 lines)
 
 - `<Container>`
 
+## Outline
+
+- `LetastUpdate` (const) - line 4
+

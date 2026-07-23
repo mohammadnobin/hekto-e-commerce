@@ -36,3 +36,9 @@ Source: `app/components/allReuseableCart/ProductReuseableTwo.jsx` (72 lines)
 
 - `ProductReuseableTwo` (const) - line 11
 
+## Imported by
+
+- `app/components/ExtraCode.jsx`
+- `app/components/Pagination.jsx`
+- `app/components/ShopPaginate.jsx`
+
