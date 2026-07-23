@@ -16,3 +16,7 @@ Source: `app/components/Contactmeddle.jsx` (33 lines)
 
 - `<Image>`
 
+## Outline
+
+- `Contactmeddle` (const) - line 5
+

@@ -35,3 +35,12 @@ Source: `app/page.js` (35 lines)
 - `<Brand>`
 - `<Blog>`
 
+## Outline
+
+- `lato` (const) - line 14
+- `Home` (function) - line 16
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
