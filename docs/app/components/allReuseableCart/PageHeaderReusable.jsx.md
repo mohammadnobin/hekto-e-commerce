@@ -33,3 +33,8 @@ Source: `app/components/allReuseableCart/PageHeaderReusable.jsx` (33 lines)
 - `app/components/Loging.jsx`
 - `app/components/OrderComplete.jsx`
 - `app/contact/page.js`
+- `app/faq/page.js`
+- `app/product/[id]/page.js`
+- `app/product/page.js`
+- `app/shop/page.jsx`
+
