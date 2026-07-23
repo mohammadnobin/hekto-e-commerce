@@ -21,3 +21,7 @@ Source: `app/components/CartRight.jsx` (54 lines)
 - `lato` (const) - line 4
 - `CartRight` (const) - line 8
 
+## Imported by
+
+- `app/components/CartMain.jsx`
+

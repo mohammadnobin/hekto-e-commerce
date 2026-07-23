@@ -24,3 +24,12 @@ Source: `app/components/Footer.jsx` (90 lines)
 - `<CiInstagram>`
 - `<CiTwitter>`
 
+## Outline
+
+- `lato` (const) - line 9
+- `Footer` (const) - line 14
+
+## Imported by
+
+- `app/layout.js`
+
