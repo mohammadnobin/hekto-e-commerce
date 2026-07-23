@@ -19,3 +19,7 @@ Source: `app/components/LetastUpdate.jsx` (21 lines)
 
 - `LetastUpdate` (const) - line 4
 
+## Imported by
+
+- `app/page.js`
+
