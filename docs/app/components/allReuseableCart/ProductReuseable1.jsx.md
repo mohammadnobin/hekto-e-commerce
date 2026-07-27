@@ -33,3 +33,8 @@ Source: `app/components/allReuseableCart/ProductReuseable1.jsx` (65 lines)
 - `<Link>`
 - `<FaMinus>`
 
+## Outline
+
+- `lato` (const) - line 11
+- `ProductReuseable1` (const) - line 16
+
