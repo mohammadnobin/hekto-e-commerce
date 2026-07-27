@@ -22,3 +22,7 @@ Source: `app/components/Blogtext.jsx` (47 lines)
 - `<MdOutlineDateRange>`
 - `<Link>`
 
+## Outline
+
+- `Blogtext` (const) - line 8
+

@@ -38,3 +38,7 @@ Source: `app/components/allReuseableCart/ProductReuseable1.jsx` (65 lines)
 - `lato` (const) - line 11
 - `ProductReuseable1` (const) - line 16
 
+## Imported by
+
+- `app/components/FeatureCarousel.jsx`
+
