@@ -23,3 +23,7 @@ Source: `app/StoreProvidor.jsx` (20 lines)
 
 - `<Provider>`
 
+## Outline
+
+- `StoreProvidor` (const) - line 7
+

@@ -26,3 +26,7 @@ Source: `app/components/Blogtext.jsx` (47 lines)
 
 - `Blogtext` (const) - line 8
 
+## Imported by
+
+- `app/components/Bloogmain.jsx`
+
