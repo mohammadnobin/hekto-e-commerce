@@ -6,3 +6,7 @@ Source: `lib/allPost.js` (4 lines)
 
 - `allPost`
 
+## Outline
+
+- `allPost` (function) - line 1
+

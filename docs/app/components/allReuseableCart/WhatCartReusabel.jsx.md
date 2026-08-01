@@ -16,3 +16,8 @@ Source: `app/components/allReuseableCart/WhatCartReusabel.jsx` (24 lines)
 
 - `<Image>`
 
+## Outline
+
+- `lato` (const) - line 5
+- `WhatCartReusabel` (const) - line 10
+

@@ -15,3 +15,7 @@ Source: `app/shoppingcart/page.js` (12 lines)
 
 - `<CartMain>`
 
+## Outline
+
+- `page` (const) - line 4
+

@@ -32,3 +32,12 @@ Source: `app/components/Blogmianrignt.jsx` (227 lines)
 - `<FaInstagram>`
 - `<FaTwitter>`
 
+## Outline
+
+- `Blogmianrignt` (const) - line 17
+
+## Imported by
+
+- `app/blog/[id]/page.js`
+- `app/components/Bloogmain.jsx`
+

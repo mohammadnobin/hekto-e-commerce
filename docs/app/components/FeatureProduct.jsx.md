@@ -21,3 +21,7 @@ Source: `app/components/FeatureProduct.jsx` (20 lines)
 
 - `FeatureProduct` (const) - line 5
 
+## Imported by
+
+- `app/page.js`
+
