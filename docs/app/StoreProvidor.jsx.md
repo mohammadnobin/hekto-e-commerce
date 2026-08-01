@@ -27,3 +27,7 @@ Source: `app/StoreProvidor.jsx` (20 lines)
 
 - `StoreProvidor` (const) - line 7
 
+## Imported by
+
+- `app/layout.js`
+
