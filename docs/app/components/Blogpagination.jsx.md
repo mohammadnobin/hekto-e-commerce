@@ -18,3 +18,7 @@ Source: `app/components/Blogpagination.jsx` (35 lines)
 
 - `Blogpagination` (const) - line 2
 
+## Imported by
+
+- `app/components/Bloogmain.jsx`
+
