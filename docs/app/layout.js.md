@@ -22,3 +22,13 @@ Source: `app/layout.js` (33 lines)
 - `<Navbar>`
 - `<Footer>`
 
+## Outline
+
+- `josefin` (const) - line 9
+- `metadata` (const) - line 14
+- `RootLayout` (function) - line 19
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

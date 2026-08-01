@@ -40,3 +40,9 @@ Source: `app/components/Container.jsx` (11 lines)
 - `app/components/Relatedcard.jsx`
 - `app/components/Shoopmain.jsx`
 - `app/components/Shopex.jsx`
+- `app/components/TopCategories.jsx`
+- `app/components/TrendingProdcut.jsx`
+- `app/components/UniqueFeature.jsx`
+- `app/components/allReuseableCart/PageHeaderReusable.jsx`
+- `app/not-found.js`
+

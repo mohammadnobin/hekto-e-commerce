@@ -17,3 +17,7 @@ Source: `app/components/FeatureProduct.jsx` (20 lines)
 - `<Container>`
 - `<FeatureCarousel>`
 
+## Outline
+
+- `FeatureProduct` (const) - line 5
+
