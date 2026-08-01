@@ -32,3 +32,11 @@ Source: `app/components/Container.jsx` (11 lines)
 - `app/components/FeatureProduct.jsx`
 - `app/components/Footer.jsx`
 - `app/components/Header.jsx`
+- `app/components/LeatestProduct.jsx`
+- `app/components/LetastUpdate.jsx`
+- `app/components/LoginForm.jsx`
+- `app/components/ProductDeatilsImage.jsx`
+- `app/components/ProductGrid.jsx`
+- `app/components/Relatedcard.jsx`
+- `app/components/Shoopmain.jsx`
+- `app/components/Shopex.jsx`
