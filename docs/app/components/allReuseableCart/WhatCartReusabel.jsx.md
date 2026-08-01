@@ -21,3 +21,8 @@ Source: `app/components/allReuseableCart/WhatCartReusabel.jsx` (24 lines)
 - `lato` (const) - line 5
 - `WhatCartReusabel` (const) - line 10
 
+## Imported by
+
+- `app/components/AboutFeatures.jsx`
+- `app/components/Shopex.jsx`
+
