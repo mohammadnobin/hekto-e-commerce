@@ -10,3 +10,11 @@ Source: `app/loading.jsx` (15 lines)
 
 - `loading`
 
+## Outline
+
+- `loading` (const) - line 3
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

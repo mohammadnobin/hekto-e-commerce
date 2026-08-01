@@ -24,3 +24,12 @@ Source: `app/components/OrderComplete.jsx` (56 lines)
 - `<Image>`
 - `<Brand>`
 
+## Outline
+
+- `lato` (const) - line 11
+- `OrderComplete` (const) - line 17
+
+## Imported by
+
+- `app/ordercompleted/page.js`
+

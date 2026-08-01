@@ -14,3 +14,7 @@ Source: `app/components/Blogpagination.jsx` (35 lines)
 
 - `useState`
 
+## Outline
+
+- `Blogpagination` (const) - line 2
+
