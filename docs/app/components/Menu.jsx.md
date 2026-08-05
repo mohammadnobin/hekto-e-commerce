@@ -29,3 +29,7 @@ Source: `app/components/Menu.jsx` (31 lines)
 
 - `Menu` (const) - line 7
 
+## Imported by
+
+- `app/components/Navbar.jsx`
+

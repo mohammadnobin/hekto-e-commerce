@@ -28,3 +28,11 @@ Source: `app/components/Shoopmain.jsx` (122 lines)
 - `<ShopRight>`
 - `<ShopPaginate>`
 
+## Outline
+
+- `Shoopmain` (const) - line 8
+
+## Imported by
+
+- `app/shop/page.jsx`
+

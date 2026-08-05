@@ -18,3 +18,7 @@ Source: `app/components/UniqueFeature.jsx` (16 lines)
 - `<Container>`
 - `<Image>`
 
+## Outline
+
+- `UniqueFeature` (const) - line 6
+
