@@ -35,3 +35,7 @@ Source: `app/product/[id]/page.js` (116 lines)
 - `<Description>`
 - `<Relatedcard>`
 
+## Outline
+
+- `page` (const) - line 16
+
