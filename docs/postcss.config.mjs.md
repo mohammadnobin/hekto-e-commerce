@@ -6,3 +6,7 @@ Source: `postcss.config.mjs` (9 lines)
 
 - `config`
 
+## Outline
+
+- `config` (const) - line 2
+
