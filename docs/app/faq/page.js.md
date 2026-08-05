@@ -17,3 +17,11 @@ Source: `app/faq/page.js` (15 lines)
 - `<PageHeaderReusable>`
 - `<FaqInfot>`
 
+## Outline
+
+- `page` (const) - line 6
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

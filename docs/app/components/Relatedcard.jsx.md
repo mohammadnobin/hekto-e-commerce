@@ -23,3 +23,7 @@ Source: `app/components/Relatedcard.jsx` (120 lines)
 - `<Link>`
 - `<Image>`
 
+## Outline
+
+- `Relatedcard` (const) - line 73
+
