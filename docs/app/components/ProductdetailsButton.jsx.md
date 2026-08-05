@@ -16,3 +16,11 @@ Source: `app/components/ProductdetailsButton.jsx` (18 lines)
 
 - `<Addtocartbutton>`
 
+## Outline
+
+- `ProductdetailsButton` (const) - line 5
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
