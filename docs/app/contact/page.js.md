@@ -17,3 +17,11 @@ Source: `app/contact/page.js` (15 lines)
 - `<PageHeaderReusable>`
 - `<ContactHead>`
 
+## Outline
+
+- `page` (const) - line 6
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

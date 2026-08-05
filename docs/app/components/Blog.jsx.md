@@ -17,3 +17,11 @@ Source: `app/components/Blog.jsx` (23 lines)
 - `<Container>`
 - `<BlogCartReuseable>`
 
+## Outline
+
+- `Blog` (const) - line 5
+
+## Imported by
+
+- `app/page.js`
+
