@@ -25,3 +25,7 @@ Source: `app/components/Menu.jsx` (31 lines)
 - `<FaBarsStaggered>`
 - `<Link>`
 
+## Outline
+
+- `Menu` (const) - line 7
+

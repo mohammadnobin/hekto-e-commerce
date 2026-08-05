@@ -27,3 +27,7 @@ Source: `app/components/Relatedcard.jsx` (120 lines)
 
 - `Relatedcard` (const) - line 73
 
+## Imported by
+
+- `app/product/[id]/page.js`
+

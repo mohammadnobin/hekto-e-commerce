@@ -39,3 +39,7 @@ Source: `app/product/[id]/page.js` (116 lines)
 
 - `page` (const) - line 16
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
