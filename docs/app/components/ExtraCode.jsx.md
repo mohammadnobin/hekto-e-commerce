@@ -16,3 +16,7 @@ Source: `app/components/ExtraCode.jsx` (1148 lines)
 - `<ShoplistCart>`
 - `<ReactPaginate>`
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
