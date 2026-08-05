@@ -10,3 +10,7 @@ Source: `lib/allPost.js` (4 lines)
 
 - `allPost` (function) - line 1
 
+## Imported by
+
+- `app/blog/page.js`
+

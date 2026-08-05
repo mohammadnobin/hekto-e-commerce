@@ -11,3 +11,12 @@ Source: `app/components/CheckooutLeft.jsx` (49 lines)
 
 - `CheckoutLeft`
 
+## Outline
+
+- `lato` (const) - line 4
+- `CheckoutLeft` (const) - line 9
+
+## Imported by
+
+- `app/components/ChectkooutMain.jsx`
+
