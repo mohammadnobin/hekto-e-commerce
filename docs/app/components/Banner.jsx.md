@@ -20,3 +20,7 @@ Source: `app/components/Banner.jsx` (70 lines)
 - `<Slider>`
 - `<Image>`
 
+## Outline
+
+- `Banner` (const) - line 7
+
