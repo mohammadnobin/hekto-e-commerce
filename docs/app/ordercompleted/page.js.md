@@ -15,3 +15,11 @@ Source: `app/ordercompleted/page.js` (14 lines)
 
 - `<OrderComplete>`
 
+## Outline
+
+- `page` (const) - line 5
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

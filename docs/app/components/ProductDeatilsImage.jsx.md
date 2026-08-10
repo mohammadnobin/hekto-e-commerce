@@ -26,3 +26,7 @@ Source: `app/components/ProductDeatilsImage.jsx` (23 lines)
 
 - `ProductDeatilsImage` (const) - line 9
 
+## Imported by
+
+- `app/product/[id]/page.js`
+

@@ -25,3 +25,7 @@ Source: `app/components/FaqInfot.jsx` (21 lines)
 
 - `FaqInfot` (const) - line 7
 
+## Imported by
+
+- `app/faq/page.js`
+
