@@ -10,3 +10,7 @@ Source: `postcss.config.mjs` (9 lines)
 
 - `config` (const) - line 2
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
