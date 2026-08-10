@@ -21,3 +21,7 @@ Source: `app/components/FaqInfot.jsx` (21 lines)
 - `<FaqLeft>`
 - `<Brand>`
 
+## Outline
+
+- `FaqInfot` (const) - line 7
+

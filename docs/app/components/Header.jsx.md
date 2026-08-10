@@ -21,3 +21,11 @@ Source: `app/components/Header.jsx` (43 lines)
 - `<FiPhoneCall>`
 - `<Addcart>`
 
+## Outline
+
+- `Header` (const) - line 7
+
+## Imported by
+
+- `app/layout.js`
+
