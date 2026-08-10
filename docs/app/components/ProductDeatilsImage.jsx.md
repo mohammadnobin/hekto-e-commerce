@@ -22,3 +22,7 @@ Source: `app/components/ProductDeatilsImage.jsx` (23 lines)
 - `<Container>`
 - `<ProductDetailsSlider>`
 
+## Outline
+
+- `ProductDeatilsImage` (const) - line 9
+

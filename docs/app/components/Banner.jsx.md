@@ -24,3 +24,7 @@ Source: `app/components/Banner.jsx` (70 lines)
 
 - `Banner` (const) - line 7
 
+## Imported by
+
+- `app/page.js`
+
