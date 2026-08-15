@@ -29,3 +29,11 @@ Source: `app/components/Bloogmain.jsx` (49 lines)
 - `<Blogpagination>`
 - `<Blogmianrignt>`
 
+## Outline
+
+- `Bloogmain` (const) - line 9
+
+## Imported by
+
+- `app/blog/page.js`
+
