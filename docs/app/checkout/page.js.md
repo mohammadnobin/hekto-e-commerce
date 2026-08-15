@@ -15,3 +15,11 @@ Source: `app/checkout/page.js` (13 lines)
 
 - `<ChectkoutMain>`
 
+## Outline
+
+- `page` (const) - line 5
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
