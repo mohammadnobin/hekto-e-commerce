@@ -10,3 +10,7 @@ Source: `app/components/FaqRight.jsx` (42 lines)
 
 - `FaqRight`
 
+## Outline
+
+- `FaqRight` (const) - line 3
+

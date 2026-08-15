@@ -24,3 +24,7 @@ Source: `app/components/TrendingProdcut.jsx` (42 lines)
 - `<TrendingCartReuseable>`
 - `<Image>`
 
+## Outline
+
+- `TrendingProdcut` (const) - line 11
+
