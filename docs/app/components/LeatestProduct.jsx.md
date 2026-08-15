@@ -18,3 +18,11 @@ Source: `app/components/LeatestProduct.jsx` (26 lines)
 - `<Container>`
 - `<ProductReuseableThree>`
 
+## Outline
+
+- `LeatestProduct` (const) - line 6
+
+## Imported by
+
+- `app/page.js`
+

@@ -14,3 +14,7 @@ Source: `app/components/FaqRight.jsx` (42 lines)
 
 - `FaqRight` (const) - line 3
 
+## Imported by
+
+- `app/components/FaqInfot.jsx`
+

@@ -23,3 +23,11 @@ Source: `app/components/ProductDetailsSlider.jsx` (155 lines)
 - `<SwiperSlide>`
 - `<Image>`
 
+## Outline
+
+- `ProductDetailsSlider` (const) - line 94
+
+## Imported by
+
+- `app/components/ProductDeatilsImage.jsx`
+

@@ -25,3 +25,7 @@ Source: `app/components/Aboout.jsx` (18 lines)
 
 - `About` (const) - line 7
 
+## Imported by
+
+- `app/about/page.js`
+

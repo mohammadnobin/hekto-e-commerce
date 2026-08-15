@@ -23,3 +23,12 @@ Source: `app/components/Addtocartbutton.jsx` (22 lines)
 
 - `<FaRegHeart>`
 
+## Outline
+
+- `Addtocartbutton` (const) - line 6
+
+## Imported by
+
+- `app/components/ProductdetailsButton.jsx`
+- `app/product/[id]/page.js`
+

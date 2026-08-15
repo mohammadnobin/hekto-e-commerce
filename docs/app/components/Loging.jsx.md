@@ -19,3 +19,7 @@ Source: `app/components/Loging.jsx` (19 lines)
 - `<LoginForm>`
 - `<Brand>`
 
+## Outline
+
+- `Loging` (const) - line 6
+

@@ -22,3 +22,13 @@ Source: `app/components/Brand.jsx` (16 lines)
 
 - `Brand` (const) - line 6
 
+## Imported by
+
+- `app/components/FaqInfot.jsx`
+- `app/components/Loging.jsx`
+- `app/components/OrderComplete.jsx`
+- `app/not-found.js`
+- `app/page.js`
+- `app/product/page.js`
+- `app/shop/page.jsx`
+
