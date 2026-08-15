@@ -28,3 +28,7 @@ Source: `app/components/TrendingProdcut.jsx` (42 lines)
 
 - `TrendingProdcut` (const) - line 11
 
+## Imported by
+
+- `app/page.js`
+
