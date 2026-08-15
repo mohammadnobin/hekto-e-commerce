@@ -21,3 +21,7 @@ Source: `app/components/Aboout.jsx` (18 lines)
 - `<AboutFeatures>`
 - `<AboutClient>`
 
+## Outline
+
+- `About` (const) - line 7
+
