@@ -21,3 +21,11 @@ Source: `app/components/AboutFeatures.jsx` (27 lines)
 - `<Container>`
 - `<WhatCartReusabel>`
 
+## Outline
+
+- `AboutFeatures` (const) - line 9
+
+## Imported by
+
+- `app/components/Aboout.jsx`
+
