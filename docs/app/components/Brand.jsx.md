@@ -18,3 +18,7 @@ Source: `app/components/Brand.jsx` (16 lines)
 - `<Container>`
 - `<Image>`
 
+## Outline
+
+- `Brand` (const) - line 6
+
