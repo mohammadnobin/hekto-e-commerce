@@ -29,3 +29,9 @@ Source: `app/components/Header.jsx` (43 lines)
 
 - `app/layout.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 43 | 6 | 0 | 37 |
+
