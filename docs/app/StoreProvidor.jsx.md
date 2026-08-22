@@ -31,3 +31,9 @@ Source: `app/StoreProvidor.jsx` (20 lines)
 
 - `app/layout.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 20 | 3 | 2 | 15 |
+
