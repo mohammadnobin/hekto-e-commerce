@@ -37,3 +37,11 @@ Source: `app/StoreProvidor.jsx` (20 lines)
 | --- | --- | --- | --- |
 | 20 | 3 | 2 | 15 |
 
+## Related files
+
+- `app/globals.css`
+- `app/layout.js`
+- `app/loading.jsx`
+- `app/not-found.js`
+- `app/page.js`
+
