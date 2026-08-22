@@ -23,3 +23,9 @@ Source: `app/shoppingcart/page.js` (12 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 12 | 2 | 0 | 10 |
+
