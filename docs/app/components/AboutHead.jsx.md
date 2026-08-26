@@ -28,3 +28,9 @@ Source: `app/components/AboutHead.jsx` (32 lines)
 
 - `app/components/Aboout.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 32 | 3 | 0 | 29 |
+
