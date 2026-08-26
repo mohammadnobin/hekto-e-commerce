@@ -35,3 +35,14 @@ Source: `app/components/Header.jsx` (43 lines)
 | --- | --- | --- | --- |
 | 43 | 6 | 0 | 37 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
