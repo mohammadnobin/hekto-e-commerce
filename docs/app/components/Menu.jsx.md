@@ -33,3 +33,9 @@ Source: `app/components/Menu.jsx` (31 lines)
 
 - `app/components/Navbar.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 31 | 1 | 0 | 30 |
+
