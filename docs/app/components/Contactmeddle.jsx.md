@@ -24,3 +24,9 @@ Source: `app/components/Contactmeddle.jsx` (33 lines)
 
 - `app/components/ContactHead.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 33 | 3 | 0 | 30 |
+
