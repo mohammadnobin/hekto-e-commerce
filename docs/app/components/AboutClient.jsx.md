@@ -32,3 +32,14 @@ Source: `app/components/AboutClient.jsx` (32 lines)
 | --- | --- | --- | --- |
 | 32 | 3 | 0 | 29 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+- `app/components/Blogmianrignt.jsx`
+
