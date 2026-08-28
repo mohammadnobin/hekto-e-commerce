@@ -30,3 +30,9 @@ Source: `app/components/ProductDeatilsImage.jsx` (23 lines)
 
 - `app/product/[id]/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 23 | 5 | 0 | 18 |
+
