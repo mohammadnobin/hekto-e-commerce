@@ -28,3 +28,9 @@ Source: `app/product/page.js` (20 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 20 | 3 | 1 | 16 |
+
