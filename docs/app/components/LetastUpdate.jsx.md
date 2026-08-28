@@ -23,3 +23,9 @@ Source: `app/components/LetastUpdate.jsx` (21 lines)
 
 - `app/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 21 | 3 | 0 | 18 |
+
