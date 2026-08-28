@@ -43,3 +43,14 @@ Source: `app/components/Addcart.jsx` (47 lines)
 | --- | --- | --- | --- |
 | 47 | 1 | 0 | 46 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+- `app/components/Blogmianrignt.jsx`
+
