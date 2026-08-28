@@ -37,3 +37,9 @@ Source: `app/components/Addcart.jsx` (47 lines)
 
 - `app/components/Header.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 47 | 1 | 0 | 46 |
+
