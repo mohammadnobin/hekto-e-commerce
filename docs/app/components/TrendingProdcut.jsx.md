@@ -32,3 +32,9 @@ Source: `app/components/TrendingProdcut.jsx` (42 lines)
 
 - `app/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 42 | 2 | 0 | 40 |
+
