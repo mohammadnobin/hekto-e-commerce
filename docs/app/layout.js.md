@@ -38,3 +38,11 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 33 | 4 | 0 | 29 |
 
+## Related files
+
+- `app/StoreProvidor.jsx`
+- `app/globals.css`
+- `app/loading.jsx`
+- `app/not-found.js`
+- `app/page.js`
+
