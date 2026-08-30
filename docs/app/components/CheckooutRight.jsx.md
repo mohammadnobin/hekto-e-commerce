@@ -33,3 +33,9 @@ Source: `app/components/CheckooutRight.jsx` (59 lines)
 
 - `app/components/ChectkooutMain.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 59 | 3 | 0 | 56 |
+
