@@ -14,3 +14,9 @@ Source: `postcss.config.mjs` (9 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 9 | 2 | 1 | 6 |
+
