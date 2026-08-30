@@ -39,3 +39,14 @@ Source: `app/components/CheckooutRight.jsx` (59 lines)
 | --- | --- | --- | --- |
 | 59 | 3 | 0 | 56 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
