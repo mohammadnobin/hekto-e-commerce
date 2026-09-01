@@ -20,3 +20,8 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 9 | 2 | 1 | 6 |
 
+## Related files
+
+- `next.config.mjs`
+- `tailwind.config.js`
+
