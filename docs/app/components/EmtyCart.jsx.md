@@ -26,3 +26,9 @@ Source: `app/components/EmtyCart.jsx` (27 lines)
 
 - `app/components/CartMain.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 27 | 2 | 0 | 25 |
+
