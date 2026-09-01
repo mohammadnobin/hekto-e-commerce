@@ -18,3 +18,9 @@ Source: `app/components/FaqRight.jsx` (42 lines)
 
 - `app/components/FaqInfot.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 42 | 3 | 0 | 39 |
+
