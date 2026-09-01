@@ -25,3 +25,9 @@ Source: `app/faq/page.js` (15 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 15 | 2 | 1 | 12 |
+
