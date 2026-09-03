@@ -35,3 +35,14 @@ Source: `app/components/AboutFeatures.jsx` (27 lines)
 | --- | --- | --- | --- |
 | 27 | 2 | 0 | 25 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+- `app/components/Blogmianrignt.jsx`
+
