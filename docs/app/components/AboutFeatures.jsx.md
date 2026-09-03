@@ -29,3 +29,9 @@ Source: `app/components/AboutFeatures.jsx` (27 lines)
 
 - `app/components/Aboout.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 27 | 2 | 0 | 25 |
+
