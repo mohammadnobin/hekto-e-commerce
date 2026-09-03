@@ -26,3 +26,9 @@ Source: `app/components/allReuseableCart/TrendingCartReuseable.jsx` (25 lines)
 
 - `app/components/TrendingProdcut.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 25 | 3 | 0 | 22 |
+
