@@ -24,3 +24,14 @@ Source: `app/components/FaqRight.jsx` (42 lines)
 | --- | --- | --- | --- |
 | 42 | 3 | 0 | 39 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
