@@ -30,3 +30,9 @@ Source: `app/components/Blogtext.jsx` (47 lines)
 
 - `app/components/Bloogmain.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 47 | 6 | 1 | 40 |
+
