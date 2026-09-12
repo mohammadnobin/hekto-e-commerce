@@ -34,3 +34,14 @@ Source: `app/components/Banner.jsx` (70 lines)
 | --- | --- | --- | --- |
 | 70 | 3 | 0 | 67 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Blog.jsx`
+- `app/components/Blogmianrignt.jsx`
+
