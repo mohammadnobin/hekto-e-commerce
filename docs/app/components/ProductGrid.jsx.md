@@ -29,3 +29,9 @@ Source: `app/components/ProductGrid.jsx` (85 lines)
 
 - `app/product/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 85 | 5 | 0 | 80 |
+
