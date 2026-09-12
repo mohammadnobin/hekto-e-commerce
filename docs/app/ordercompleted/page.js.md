@@ -23,3 +23,9 @@ Source: `app/ordercompleted/page.js` (14 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 14 | 3 | 1 | 10 |
+
