@@ -25,3 +25,9 @@ Source: `app/components/FeatureProduct.jsx` (20 lines)
 
 - `app/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 20 | 3 | 0 | 17 |
+
