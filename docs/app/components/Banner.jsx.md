@@ -28,3 +28,9 @@ Source: `app/components/Banner.jsx` (70 lines)
 
 - `app/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 70 | 3 | 0 | 67 |
+
