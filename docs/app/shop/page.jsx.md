@@ -28,3 +28,9 @@ Source: `app/shop/page.jsx` (19 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 19 | 2 | 1 | 16 |
+
