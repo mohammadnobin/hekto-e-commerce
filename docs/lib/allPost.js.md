@@ -14,3 +14,9 @@ Source: `lib/allPost.js` (4 lines)
 
 - `app/blog/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 4 | 0 | 0 | 4 |
+
