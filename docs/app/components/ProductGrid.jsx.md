@@ -35,3 +35,14 @@ Source: `app/components/ProductGrid.jsx` (85 lines)
 | --- | --- | --- | --- |
 | 85 | 5 | 0 | 80 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
