@@ -20,3 +20,9 @@ Source: `lib/allPost.js` (4 lines)
 | --- | --- | --- | --- |
 | 4 | 0 | 0 | 4 |
 
+## Related files
+
+- `lib/allPostID.js`
+- `lib/getAlldata.js`
+- `lib/getIdData.js`
+
