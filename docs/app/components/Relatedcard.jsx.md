@@ -37,3 +37,14 @@ Source: `app/components/Relatedcard.jsx` (120 lines)
 | --- | --- | --- | --- |
 | 120 | 13 | 56 | 51 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
