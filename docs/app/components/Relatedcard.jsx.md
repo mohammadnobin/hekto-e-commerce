@@ -31,3 +31,9 @@ Source: `app/components/Relatedcard.jsx` (120 lines)
 
 - `app/product/[id]/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 120 | 13 | 56 | 51 |
+
