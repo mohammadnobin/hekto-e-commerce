@@ -42,3 +42,9 @@ Source: `app/components/allReuseableCart/ProductReuseableTwo.jsx` (72 lines)
 - `app/components/Pagination.jsx`
 - `app/components/ShopPaginate.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 72 | 5 | 4 | 63 |
+
