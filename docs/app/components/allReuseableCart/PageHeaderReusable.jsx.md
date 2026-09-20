@@ -38,3 +38,9 @@ Source: `app/components/allReuseableCart/PageHeaderReusable.jsx` (33 lines)
 - `app/product/page.js`
 - `app/shop/page.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 33 | 5 | 0 | 28 |
+
