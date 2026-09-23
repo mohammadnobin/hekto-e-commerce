@@ -26,3 +26,9 @@ Source: `app/components/UniqueFeature.jsx` (16 lines)
 
 - `app/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 16 | 2 | 0 | 14 |
+
