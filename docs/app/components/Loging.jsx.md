@@ -33,3 +33,14 @@ Source: `app/components/Loging.jsx` (19 lines)
 | --- | --- | --- | --- |
 | 19 | 3 | 0 | 16 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
