@@ -27,3 +27,9 @@ Source: `app/components/Loging.jsx` (19 lines)
 
 - `app/login/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 19 | 3 | 0 | 16 |
+
