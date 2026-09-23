@@ -28,3 +28,14 @@ Source: `app/components/ShopRight.jsx` (280 lines)
 | --- | --- | --- | --- |
 | 280 | 15 | 116 | 149 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
