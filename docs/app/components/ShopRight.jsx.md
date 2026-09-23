@@ -22,3 +22,9 @@ Source: `app/components/ShopRight.jsx` (280 lines)
 
 - `app/components/Shoopmain.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 280 | 15 | 116 | 149 |
+
