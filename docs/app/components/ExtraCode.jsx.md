@@ -26,3 +26,14 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 1148 | 129 | 1019 | 0 |
 
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+

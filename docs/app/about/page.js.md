@@ -25,3 +25,13 @@ Source: `app/about/page.js` (19 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 19 | 4 | 1 | 14 |
+
+## Related files
+
+No other source files in this folder.
+
