@@ -28,3 +28,9 @@ Source: `app/components/TopCategories.jsx` (28 lines)
 
 - `app/page.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 28 | 2 | 0 | 26 |
+
