@@ -24,3 +24,9 @@ Source: `app/components/allReuseableCart/TopCategoriReuseabel.jsx` (22 lines)
 
 - `app/components/TopCategories.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 22 | 2 | 0 | 20 |
+
