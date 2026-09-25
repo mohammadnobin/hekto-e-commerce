@@ -22,3 +22,9 @@ Source: `app/components/Blogpagination.jsx` (35 lines)
 
 - `app/components/Bloogmain.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 35 | 2 | 0 | 33 |
+
