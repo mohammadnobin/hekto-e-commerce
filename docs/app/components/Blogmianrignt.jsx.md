@@ -41,3 +41,20 @@ Source: `app/components/Blogmianrignt.jsx` (227 lines)
 - `app/blog/[id]/page.js`
 - `app/components/Bloogmain.jsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 227 | 5 | 0 | 222 |
+
+## Related files
+
+- `app/components/Aboout.jsx`
+- `app/components/AboutClient.jsx`
+- `app/components/AboutFeatures.jsx`
+- `app/components/AboutHead.jsx`
+- `app/components/Addcart.jsx`
+- `app/components/Addtocartbutton.jsx`
+- `app/components/Banner.jsx`
+- `app/components/Blog.jsx`
+
