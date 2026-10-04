@@ -31,3 +31,7 @@ Source: `lib/store/features/cart/cartsilce.js` (36 lines)
 | --- | --- | --- | --- |
 | 36 | 3 | 0 | 33 |
 
+## Related files
+
+No other source files in this folder.
+
