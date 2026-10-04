@@ -25,3 +25,9 @@ Source: `lib/store/features/cart/cartsilce.js` (36 lines)
 - `app/components/allReuseableCart/ProductReuseableTwo.jsx`
 - `lib/store/store.js`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 36 | 3 | 0 | 33 |
+
